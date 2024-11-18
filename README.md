@@ -1,6 +1,6 @@
 <img src="./hi.svg" width="880" height="100">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chengazhen&locale=zh_Hans&card_width=880)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-dof21edec-azhen98s-projects.vercel.app/?user=chengazhen&locale=zh_Hans&card_width=880)](https://git.io/streak-stats)
 
 你好，我叫程崇臻，也可以叫我阿臻，有 5 年 前端开发经验。
 
